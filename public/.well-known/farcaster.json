@@ -1,0 +1,18 @@
+{
+  "accountAssociation": {
+    "header": "eyJmaWQiOjI5OTM5NSwidHlwZSI6ImN1c3RvZHkiLCJrZXkiOiIweDQxQTBlMTNjMzdCOWRCNzgwMzIzMEQ0NjA4Mjc2MDczMEJiNDIxM2YifQ",
+    "payload": "eyJkb21haW4iOiJjcnlwdG9zbmFrZS52ZXJjZWwuYXBwIn0",
+    "signature": "MHgwMDljODBiYzMyYjYwYzc5ODZjNDE2MTZlMGViM2JhMGY0Y2Y4NzljMDRmNjIzYzM5ZGM3NGM2N2Q4MmJlZDQ5N2NhMGMwM2Y2MmE1YjY5MjA3NGE2NWI4MzFmNGVjZjQ4ZTBmYmJkZDJmMDE2YWI5YWQyZjU4YjUyZjZhM2EzZjFj"
+  },
+  "frame": {
+    "version": "1",
+    "name": "SB",
+    "iconUrl": "https://cryptosnake.vercel.app/icon.png",
+    "homeUrl": "https://cryptosnake.vercel.app",
+    "imageUrl": "https://cryptosnake.vercel.app/image.png",
+    "buttonTitle": "Check this out",
+    "splashImageUrl": "https://cryptosnake.vercel.app/splash.png",
+    "splashBackgroundColor": "#eeccff",
+    "webhookUrl": "https://cryptosnake.vercel.app/api/webhook"
+  }
+}
